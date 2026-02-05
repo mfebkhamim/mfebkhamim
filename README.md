@@ -1,9 +1,9 @@
 <div align="center">
   
 # Hello World! I'm Mohammad Febryan Khamim 👋
-### Mathematics Student • Machine Learning Enthusiast • Python Developer
+### Mathematics Student • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Mathematics+Student+at+ITS;Machine+Learning+Explorer;Python+Programming+Enthusiast;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Mathematics+Student+at+ITS;Machine+Learning+Enthustiast;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
 </div>
 
@@ -11,12 +11,13 @@
 
 ## 🧮 About Me
 
-I'm a **Mathematics Undergraduate student** at **Institut Teknologi Sepuluh Nopember (ITS)**, diving deep into the fascinating world of **Machine Learning** and **Python Programming**. I believe that mathematics is the language of the universe, and I'm excited to use it to solve real-world problems through data science and AI.
+I'm a **Mathematics Undergraduate student** at **Institut Teknologi Sepuluh Nopember (ITS)**, I have a strong interest in machine learning and data science. With a solid foundation in mathematics, I am ready to tackle real-world problems involving data.
+
 
 <div align="center">
 
 ### 🎯 Current Focus
-**Bridging Mathematical Theory with Practical Machine Learning Applications**
+**Implementing Mathematical Concepts and Theories in Machine Learning**
 
 </div>
 
@@ -24,9 +25,7 @@ I'm a **Mathematics Undergraduate student** at **Institut Teknologi Sepuluh Nope
 
 - 📚 **Studying**: Advanced Mathematics at ITS
 - 🤖 **Learning**: Machine Learning algorithms and deep learning frameworks
-- 🐍 **Coding**: Python for data science and ML applications
 - 📊 **Exploring**: Data visualization and statistical analysis
-- 🎓 **Building**: Academic and personal projects combining math and ML
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,25 +33,8 @@ I'm a **Mathematics Undergraduate student** at **Institut Teknologi Sepuluh Nope
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Tools & Environment
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
 ## 🎓 Academic Journey
@@ -65,18 +47,6 @@ I'm a **Mathematics Undergraduate student** at **Institut Teknologi Sepuluh Nope
 
 </div>
 
-## 🌟 Learning Roadmap
-
-```mermaid
-graph LR
-    A[Mathematical Foundations] --> B[Statistics & Probability]
-    B --> C[Python Programming]
-    C --> D[Data Analysis]
-    D --> E[Machine Learning]
-    E --> F[Deep Learning]
-    F --> G[Advanced AI Applications]
-```
-
 
 ## 🤝 Let's Connect!
 
@@ -84,9 +54,10 @@ I'm always excited to discuss mathematics, machine learning, or collaborate on i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-febryan-khamim-b6b851249/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfebkhamim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfkhamim)
+
 
 </div>
 

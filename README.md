@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello World! I'm Mohammad Febryan Khamim 👋
-### Mathematics Student • Machine Learning Enthusiast
+### Mathematics Student || Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Mathematics+Student+at+ITS;Machine+Learning+Enthustiast;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
